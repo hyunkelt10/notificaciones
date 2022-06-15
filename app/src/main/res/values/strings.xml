@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TOAST</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="channel_name">CHANNEL_NAME</string>
+    <string name="channel_description">CHANNEL_DESCRIPTION</string>
+</resources>
